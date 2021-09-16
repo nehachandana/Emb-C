@@ -9,11 +9,11 @@ In Activity-1, we check if driver is seated on seat.
 
 ## ACTIVITY-2:
 
-In Activity-2 temperature of the seat is detected. The temperature can be increased or decreased.
+In Activity-2 initial temperature of the seat is detected. The temperature can be increased or decreased as per our requirement.
 
 ## ACTIVITY-3:
 
-In Activity-3 it displays the temperature of the seat as output.
+In Activity-3 it displays the final temperature as output.
 
 
 ![C/C++ CI - Build Status](https://www.code-inspector.com/project/28888/score/svg)
