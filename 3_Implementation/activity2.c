@@ -16,12 +16,7 @@ void InitADC()
 
 }
 
-/**
- * @brief 
- * 
- * @param ch To select channel from which analog input is obtained
- * @return uint16_t returns Analog to digital converted value
- */
+\
 uint16_t ReadADC(uint8_t ch)
 {
     /** 
